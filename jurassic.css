@@ -1,0 +1,214 @@
+.corfundo {
+    background-color: rgb(16, 39, 31);
+  }
+
+.topo {
+    background-image: url(jp_topoFundo.jpg);
+    margin-left: 40px;
+    margin-right: 40px;
+   }
+
+.imagemtopo {
+    position: relative;
+    left: 270px;
+    top: 15px;
+   }
+
+.menutopo {
+    border-radius:  20px 00px 20px 00px;
+    border-style: solid;
+    border-color: white;
+    padding: 20px;
+    width: 500px;
+    height: 4px;
+    position: relative;
+    left: 600px;
+    bottom: 80px;
+    background-image: url(jp_menuFundo.jpg)
+}
+
+.corletramenu {
+    color: white;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 19px;
+    position: relative;
+    bottom: 8px;
+    left: 80px;
+    font-weight: bold;
+}
+
+.intro {
+    background-color: #5a0a0a;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 150px;
+    position: relative;
+    bottom: 80px;
+}
+
+@font-face {
+    font-family: jurassicfonte;
+    src: url(Jurassic_Park.ttf)
+}
+
+.introfonte {
+    font-family: jurassicfonte;
+    font-size: 90px;
+    color: white;
+    letter-spacing: 9px;
+    position: relative;
+    top: 25px;
+    left: 450px;
+}
+
+.primeirofilme {
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 500px;
+    position: relative;
+    bottom: 100px;
+}
+
+.imgprimeiro {
+    position: relative;
+    top: 80px;
+    left: 400px;
+    width: 200px;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+}
+
+.titulotex {
+    position: relative;
+    right: 450px;
+    bottom: 250px;
+    font-size: 30px;
+    text-align: right;
+}
+
+.paragrafos {
+ text-align: left;
+ padding-left: 1100px;
+ position: relative;
+ right: 450px;
+ bottom: 250px;
+ font-size: 20px;
+}
+
+.segundofilme {
+    background-color: rgb(92, 85, 85);
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 500px;
+    position: relative;
+    bottom: 100px;
+}
+
+.imgsegundo {
+    position: relative;
+    top: 80px;
+    left: 1200px;
+    width: 200px;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+}
+
+.titulotex2 {
+    position: relative;
+    right: 840px;
+    bottom: 250px;
+    font-size: 30px;
+    text-align: right;
+    color: white;
+}
+
+.paragrafos2 {
+    text-align: left;
+    padding-left: 1100px;
+    position: relative;
+    right: 720px;
+    bottom: 250px;
+    font-size: 20px;
+    color: white;
+}
+
+.titulotex3 {
+    position: relative;
+    right: 870px;
+    bottom: 250px;
+    font-size: 30px;
+    text-align: right;
+}
+
+.titulotex4 {
+    position: relative;
+    right: 1150px;
+    bottom: 250px;
+    font-size: 30px;
+    text-align: right;
+    color: white;
+}
+
+.titulotabela {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    position: relative;
+    bottom: 40px;
+}
+
+#tabela {
+    border-collapse: separate;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    left: 650px;
+    bottom: 20px;
+  }
+  
+  #tabela td, #tabela th {
+    border: 1px solid rgb(16, 39, 31);
+    padding: 8px;
+  }
+
+  #tabela th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: #292e2c;
+    color: white;
+    font-size: 25px;
+  }
+
+  #linha1 {
+    background-color: rgb(106, 121, 121);
+    font-size: 25px;
+}
+
+#linha2 {
+    background-color: yellow;
+    font-size: 25px;
+}
+
+.base {
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 80px;
+    position: relative;
+    top: 90px;
+    background-image: url(jp_topoFundo.jpg)
+}
+
+.finalpagi {
+    color: white;
+    font-size: 20px;
+    font-family: Sans-serif;
+    position: relative;
+    top: 30px;
+    left: 550px;
+    font-weight: bold;
+}
